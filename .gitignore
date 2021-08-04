@@ -1,0 +1,8 @@
+*~
+*.o
+*.lst
+*.dat
+*.BIN
+*.iso
+
+map.sh
