@@ -1,4 +1,4 @@
-TARGET=sh_ss_slideshow_retrogstudy05.iso
+TARGET=retrogstudy05.iso
 TOOLS_PATH=tools
 
 all: $(TARGET)
